@@ -26,5 +26,3 @@ Project is created with:
 - SASS
 - JS
 - RWD
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/krzszk96)](https://github.com/anuraghazra/github-readme-stats)
