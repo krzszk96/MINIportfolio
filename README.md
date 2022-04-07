@@ -1,4 +1,4 @@
-# Personal portfolio by krzszk96
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"># Personal portfolio by krzszk96
 
 Used: Bootstrap 4.4.1 Boilerplate with Gulp 4+. Sass, browser-sync.
 [Documentation](https://bootstrapstarter.com/template-basic-bootstrap-html/)
