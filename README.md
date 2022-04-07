@@ -1,9 +1,26 @@
+# Personal portfolio by krzszk96
 
-# Bootstrap 4.4.1 Boilerplate - Basic
-
-This is a Bootstrap 4.4.1 Boilerplate with Gulp 4+. Sass, browser-sync.
-
+Used: Bootstrap 4.4.1 Boilerplate with Gulp 4+. Sass, browser-sync.
 [Documentation](https://bootstrapstarter.com/template-basic-bootstrap-html/)
 
-![bootstrapstarter](src/img/screenshot.jpg)
+Design: Bedimcode
+[Youtube](https://youtu.be/mq0xJxOTiYo/)
 
+## Table of contents
+
+- [General info](#general-info)
+- [Technologies](#technologies)
+
+## General info
+
+Project created to showcase my few projects
+
+## Technologies
+
+Project is created with:
+
+- Bootstrap
+- HTML
+- SASS
+- JS
+- RWD
