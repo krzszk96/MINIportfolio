@@ -27,4 +27,4 @@ Project is created with:
 - JS
 - RWD
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?krzszk96=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/krzszk96)](https://github.com/anuraghazra/github-readme-stats)
