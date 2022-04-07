@@ -1,0 +1,27 @@
+$primary-blue: #389DF5;
+$additional-color: #fff;
+
+$secondary-black: #242424;
+$secondary-grey-dark: #404040;
+$secondary-grey: #3E3E3E;
+$secondary-grey-light: #6A6A6A;
+$secondary-grey-bright: #DADADA;
+
+:root,
+:root.light {
+  --bg-color: #fff;
+  --secondary-black: #242424;
+  --secondary-grey: #3E3E3E;
+  --secondary-light: #6A6A6A;
+}
+ 
+:root.dark {
+  --bg-color: #121212;
+  --secondary-black: #fff;
+  --secondary-grey: #c2c1c1;
+  --secondary-light: #e4e2e2;
+}
+
+body {
+  background-color: var(--bg-color);
+}

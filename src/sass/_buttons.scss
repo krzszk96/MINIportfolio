@@ -1,0 +1,49 @@
+.download-cv-btn{
+  width: 200px;
+  height: 56px;
+  background-color: $primary-blue;
+  box-shadow: 4px 4px 15px $primary-blue;
+  border-radius: 10px;
+  border: none;
+  color: $additional-color;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.2rem;
+  margin-right: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: 0;
+  transition: top ease 0.3s;
+
+  &:hover{
+    opacity: 0.8;
+    top: -10px;
+  }
+}
+
+.projects-btn{
+  width: 162px;
+  height: 50px;
+  background-color: $secondary-grey-bright;
+  color: $secondary-grey;
+  font-family: 'Roboto', sans-serif;
+  border: none;
+  border-radius: 10px;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+.skills-btn{
+  width: 162px;
+  height: 50px;
+  background-color: $secondary-grey-bright;
+  color: $secondary-grey;
+  font-family: 'Roboto', sans-serif;
+  border: none;
+  border-radius: 10px;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+.active{
+  background-color: $additional-color;
+}
