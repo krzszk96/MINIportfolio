@@ -32,6 +32,7 @@
     "gulp-uglify": "^3.0.2"
   },
   "dependencies": {
+    "popper.js": "^1.16.1",
     "remixicon": "^2.5.0"
   }
 }

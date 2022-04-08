@@ -13,6 +13,7 @@ $secondary-grey-bright: #DADADA;
   --secondary-black: #242424;
   --secondary-grey: #3E3E3E;
   --secondary-light: #6A6A6A;
+  --secondary-bright: #DADADA;
 }
  
 :root.dark {
@@ -20,6 +21,7 @@ $secondary-grey-bright: #DADADA;
   --secondary-black: #fff;
   --secondary-grey: #c2c1c1;
   --secondary-light: #e4e2e2;
+  --secondary-bright: #999999;
 }
 
 body {

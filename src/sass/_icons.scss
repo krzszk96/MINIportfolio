@@ -45,7 +45,7 @@
 }
 .ri-whatsapp-line,.ri-messenger-line{
   color: $secondary-grey;
-  background-color: $secondary-grey-bright;
+  background-color: var(--secondary-bright);
   padding: 10px;
   font-size: 1.4rem;
   margin: 0 0.5rem;
