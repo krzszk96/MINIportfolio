@@ -44,3 +44,15 @@
 .active{
   background-color: $additional-color;
 }
+.info-modal-btn{
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: $primary-blue;
+  border-radius: 10px;
+  border: none;
+  color: $additional-color;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
+  padding: 10px;
+}
