@@ -194,6 +194,9 @@
 }
 .modal-content{
   border: 1px solid $primary-blue;
+  @include media-breakpoint-down(sm) { 
+    margin: 0 10px;
+  }
 }
 .modal-body, .modal-title{
   font-family: 'Roboto', sans-serif;
