@@ -192,6 +192,9 @@
   font-weight: 400;
   color: var(--secondary-light);
 }
+.modal-content{
+  border: 1px solid $primary-blue;
+}
 .modal-body, .modal-title{
   font-family: 'Roboto', sans-serif;
 }
