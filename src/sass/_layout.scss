@@ -58,6 +58,21 @@
   justify-content: center;
   align-items: center;
 }
+.blog-wrap{
+  margin: 20px 0;  
+}
+.blog-wrap a{
+  font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--secondary-light);
+  text-decoration: none;
+  transition: 0.3s;
+
+  &:hover{
+    color: $primary-blue;
+  }
+}
 .stats-wrap{
   margin: 1rem 0;
 }
